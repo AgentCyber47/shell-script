@@ -22,11 +22,5 @@ elif [ "$1" != "" ];then
         echo "[x] Arquivo não encontrado"; sleep 1
     fi
 else
-     echo "[x] Erro"
+     echo "[+] Erro"
 fi
-
-Script em bash feito para extrair (filtrar) links HTTP e HTTP(s) a partir de uma index.html passada via argumento
-#bashscript #linux #unix
-#shellscript #regex #cybersecurity
-#terminalbyte #computersecurity
-#infosec #ethicalhacker
